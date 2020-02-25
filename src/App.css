@@ -1,38 +1,45 @@
-.App {
-  text-align: center;
+.form-filter-container,
+.product-list-container {
+  padding-bottom: 3rem;
+  padding-top: 3rem;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.form-filter .MuiFormControl-root {
+  width: 100%;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.form-filter .MuiInputBase-input {
+  background-color: #fff;
+  border-radius: 4px;
+  color: hsl(0,0%,50%);
+  font-size: 15px;
+  padding: 10px;
+  line-height: 1.5;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.form-filter label {
+  color: rgba(255,255,255,.7);
+  display: inline-block;
+  font-weight: 500;
+  margin-bottom: .25em;
+  margin-left: .5em;
 }
-
-.App-link {
-  color: #61dafb;
+.MuiCardMedia-root {
+  height: 100%;
+  min-height: 160px;
+  width: 100%;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.product-styles-wrapper {
+  padding: 1em 0;
+}
+.product-style:not(:last-child) {
+  margin-right: .5em;
+}
+.product-price {
+  font-weight: 700!important;
+}
+.shipping-time > * {
+  display: inline-block;
+  vertical-align: middle;
+}
+.duration {
+  color: #999;
+  margin-left: .5em;
 }
