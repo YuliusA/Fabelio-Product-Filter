@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fabelio-Product-Filter/static/css/main.a71acc3f.chunk.css",
+    "main.js": "/Fabelio-Product-Filter/static/js/main.5deb18a5.chunk.js",
+    "main.js.map": "/Fabelio-Product-Filter/static/js/main.5deb18a5.chunk.js.map",
+    "runtime-main.js": "/Fabelio-Product-Filter/static/js/runtime-main.c69713c7.js",
+    "runtime-main.js.map": "/Fabelio-Product-Filter/static/js/runtime-main.c69713c7.js.map",
+    "static/js/2.c3a23ba8.chunk.js": "/Fabelio-Product-Filter/static/js/2.c3a23ba8.chunk.js",
+    "static/js/2.c3a23ba8.chunk.js.map": "/Fabelio-Product-Filter/static/js/2.c3a23ba8.chunk.js.map",
+    "index.html": "/Fabelio-Product-Filter/index.html",
+    "precache-manifest.548d7afa9236fa5d2e775279e2f43715.js": "/Fabelio-Product-Filter/precache-manifest.548d7afa9236fa5d2e775279e2f43715.js",
+    "service-worker.js": "/Fabelio-Product-Filter/service-worker.js",
+    "static/css/main.a71acc3f.chunk.css.map": "/Fabelio-Product-Filter/static/css/main.a71acc3f.chunk.css.map",
+    "static/js/2.c3a23ba8.chunk.js.LICENSE": "/Fabelio-Product-Filter/static/js/2.c3a23ba8.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c69713c7.js",
+    "static/js/2.c3a23ba8.chunk.js",
+    "static/css/main.a71acc3f.chunk.css",
+    "static/js/main.5deb18a5.chunk.js"
+  ]
+}
