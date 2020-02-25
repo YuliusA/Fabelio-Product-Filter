@@ -6,8 +6,6 @@ This project is created based on :
 https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C69f96e47cf7744b1a55563c08b1587fe/projects/M5a10cadd5babe585815a247587e0dced1553009517182/pages/a44974d1dd4a4ee5a3d9b1965cce5240/image/a44974d1dd4a4ee5a3d9b1965cce5240.png
 
 
-Luthfan Mursyidan @2020 - 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
